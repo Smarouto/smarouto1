@@ -1,0 +1,165 @@
+body{
+    background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  background-color: #430C15;
+
+}
+main{
+position: absolute;
+width: 2000px;
+height: 2000px;
+}
+
+.nave{
+  width: 1500px;
+  height: 175px;
+  max-width: 3000px;
+  max-height: 175px;
+
+
+}
+img{
+  width: 700px;
+  height: 150px;
+  display: block;
+  margin: 0;
+  padding: 0;
+
+}
+.first{
+  font-size: 45px;
+  text-align: left;
+  padding: 0;
+  margin-left: 600px;
+  margin-top: 0;
+
+
+
+position: absolute;
+
+}
+
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+
+
+}
+a:hover{
+  color:red;
+}
+a::after{
+  color: blue;
+}
+.container{
+
+  font-size: 42px;
+  color: #E06D10;
+  position: absolute;
+  padding-bottom: 70px;
+  padding-top: 95px;
+margin-left: 600px;
+opacity: 0.6;
+
+
+}
+.presentation{
+  color: #E06D10;
+  text-align: left;
+  padding-top: 25px;
+  padding-right: 925px;
+  font-size: 30px;
+}
+.presentationimage{
+  height: 500px;
+  width: 550px;
+}
+h1,h3{
+  color: #F4A15D;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  font-weight: bold;
+  opacity: 0.7;
+}
+
+.dxn{
+  padding-left: 1300px;
+position: absolute;
+}
+.dxn,.image2,.image3,.image4,.image5,.image6,.image7,.image8{
+  width:600px;
+  height: 500px;
+
+
+}
+.dxn1{
+  padding-left: 1450px;
+  display: inline;
+}
+h3,.dxn,.image2{
+  display:inline;
+
+}
+.dxn2{
+  padding-left: 625px;
+}
+.image2{
+  padding-left: 625px;
+}
+.image3{
+display:inline;
+padding-left: 1300px;
+position: absolute;
+padding-top: 30px;
+}
+.dxn3{
+display: inline;
+padding-left: 1450px;
+position: absolute;
+z-index: 1;
+}
+.image4{
+  padding-left: 600px;
+}
+.dxn4{
+ padding-left: 800px;
+
+}
+.dxn5,.image5{
+  display: inline;
+  position: absolute;
+
+}
+.image5{
+  padding-left: 1300px;
+  padding-top: 30px;
+}
+.dxn5{
+  padding-left: 1600px;
+}
+.image6{
+  padding-left: 625px;
+}
+.dxn6{
+  padding-left: 975px;
+}
+.dxn7,.image7{
+  display: inline;
+  position: absolute;
+}
+.image7{
+  padding-left: 1300px;
+  padding-top: 20px;
+}
+.dxn7{
+  padding-left: 1600px;
+}
+.dxn8{
+  padding-left: 975px;
+}
+.image8{
+  padding-left: 625px;
+}
