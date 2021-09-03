@@ -1,0 +1,75 @@
+body{
+  background-image: url('https://previews.123rf.com/images/279photo/279photo1705/279photo170501991/81032796-client-support-service-workdesk-with-contact-us-signs-dark-background-top-view-mockup.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: bottom;
+}
+h1{
+  padding-top: 200px;
+}
+h3{
+
+}
+.contactus,.contactus2,.contactus3{
+  color:yellow;
+  padding-left: 1150px;
+  font-size: 35px;
+  font-weight: bolder;
+  padding-bottom: 0;
+}
+.contactus2{
+
+}
+.first{
+  font-size: 45px;
+  text-align: left;
+  padding: 0;
+  margin-left: 600px;
+  margin-top: 0;
+
+
+
+position: absolute;
+
+}
+.nave{
+  width: 1500px;
+  height: 175px;
+  max-width: 3000px;
+  max-height: 175px;
+
+
+}
+img{
+  width: 700px;
+  height: 150px;
+  display: block;
+  margin: 0;
+  padding: 0;
+
+}
+.container{
+
+  font-size: 42px;
+  color: #E06D10;
+  position: absolute;
+  padding-bottom: 70px;
+  padding-top: 95px;
+margin-left: 600px;
+opacity: 0.6;
+
+
+}
+a{
+  text-decoration: none;
+  color: black;
+  font-weight: bolder;
+
+
+}
+a:hover{
+  color:red;
+}
+a::after{
+  color: blue;
+}
